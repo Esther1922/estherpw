@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/home/aluno/Documentos/AnaEsther/Projeto1/chorao.css">
+</head>
+    <body>
+        <h1>Chorão</h1>
+        <p>Vocalista, compositor e ícone do rock brasileiro</p>
+        <strong>Sumario</strong>
+        <ul>
+                <li><a href="#bio">Biografia</a></li>
+                <li><a href="#legado">Legado</a></li>
+        </ul>
+        <img src="https://s2-gq.glbimg.com/5djhBXF-6tEV03nVAlKWXDZV4s8=/0x0:200x265/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2023/F/k/MdFMeASWSwr700GZ8bBQ/2021-04-07-gq114-esschorao-1.jpeg" alt="0px";
+           <h2 id="Biografia">Biografia</h2>
+            <p>
+                Alexandre Magno Abrão
+                , conhecido como Chorão (São Paulo, 1970–2013), foi um cantor, compositor, skatista e líder da banda Charlie Brown Jr.. Ícone do rock nacional, misturou punk, hip hop e reggae, vendendo mais de 5 milhões de cópias. Com letras autobiográficas e geracionais, como "Proibida pra Mim" e "Zóio de Lula", marcou os anos 90 e 2000. 
+            </p>
+    
+            <h2 id="legado">Legado</h2>
+            <p>
+                O legado de Chorão, vocalista do Charlie Brown Jr. falecido em 2013,
+                é marcado por letras sinceras sobre a vida, skate e a cultura de Santos.
+                Ele deixou uma fortuna estimada em R$ 25 milhões e influenciou gerações
+                com sua mistura de rock, rap e reggae, mantendo-se vivo na memória dos fãs.
+            </p>
+             
+            
+     </body>
+</html>
