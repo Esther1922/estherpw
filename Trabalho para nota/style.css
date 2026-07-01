@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(255, 250, 250);
+    color: rgb(255, 254, 254);
+}
+
+#container {
+    width: 50%;
+    margin: auto;
+    background: rgb(82, 77, 77);
+    padding: 10px;
+    margin: 20px 0;
+    border: 2px solid rgb(236, 232, 232);
+}
+
+.sliders {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.box {
+    width: 200px;
+    height: 500px;
+    padding: 20px;
+}
+
+.red {
+    background: darkred;
+}
+
+.green {
+    background: darkgreen;
+}
+
+.blue {
+    background: darkblue;
+}
+
+input {
+    width: 150px;
+}
+.cor-resultante {
+    display: block;
+    font-weight: bold;
+    margin-left: 620px;
+    color: #ffffff; 
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
