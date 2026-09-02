@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>informações de usuarios</h1>
+
+    <table border="1">
+
+            <tr>
+                <th>Informação</th>
+                <th>Dados</th>
+            </tr>
+        <tr>
+            <td>Nome:</td>
+            <td>Estevão Ferreira</td>
+        </tr>
+         <tr>
+           <td>Data de Nascimento:  </td>
+           <td>16/01/1840</td>
+        </tr>
+         <tr>
+          <td>Endereço:</td>
+          <td>rua amarela 780</td>
+        </tr>
+        <tr>
+          <td>Bairro:</td>
+          <td>chile</td>
+        </tr>
+         <tr>
+          <td>Cidade:  </td>
+          <td>Lunária</td>
+        </tr>
+         <tr>
+          <td>CEP:  </td>
+          <td>00000-000</td>
+        </tr>
+         <tr>
+           <td>Estado:  </td>
+           <td>Ceará</td>
+        </tr>
+         <tr>
+          <td>Cor favorita:  </td>
+          <td>azul</td>
+        </tr>
+         <tr>
+          <td>Nivel de satisfação:  </td>
+          <td>70%</td>
+        </tr>
+        <tr>
+            <th colspan="2">Dados profissionais</th>
+        </tr>
+         <tr>
+          <td>Natureza do Cargo:  </td>
+           <td>Gerencia</td>
+        </tr>
+         <tr>
+            <td>Área de interesse</td>
+            <td>Tecnologia</td>
+        </tr>
+         <tr>
+           <td>Mini-curriculo:</td>
+            <td>informações profissionais</td>
+         </tr>
+       
+    </table>
+
+</body>
+</html>
